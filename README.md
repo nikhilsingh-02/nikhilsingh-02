@@ -7,9 +7,14 @@
 
 <h2>About Me☃️</h2>
 
-
 - 😇 My name is **Nikhil Singh Chauhan**
 - 📖 currently pursuing **B.tech** in **CSE-AI**
 - 🌱 I’m currently learning **Java**
-- 💬 Ask me about **Python**  
+- 💬 Ask me about **Python**
+
+
+**Tech I know**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=45px width=45px>
+<img src="
 
