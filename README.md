@@ -1,6 +1,5 @@
 **Hi there**
-
-![My GIF](https://cdn.dribbble.com/users/1783374/screenshots/10971607/media/f8306d5fa8106661e6cdf9ec756dbe28.gif)
+<img src="https://cdn.dribbble.com/users/1783374/screenshots/10971607/media/f8306d5fa8106661e6cdf9ec756dbe28.gif" height=500px>
 
 
 
