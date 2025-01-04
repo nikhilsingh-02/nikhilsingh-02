@@ -1,6 +1,6 @@
 **Hi there **
 
-![My awesome GIF](https://media.giphy.com/media/your-gif-url.gif](https://dribbble.com/shots/10971607-Cute-Sloth))
+![My awesome GIF](https://media.giphy.com/media/(https://dribbble.com/shots/10971607-Cute-Sloth).gif])
 
 
 
