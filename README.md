@@ -1,5 +1,7 @@
 <h1 align="center">Hello There!!</h1>
-# 💫 About Me:
+
+**💫 About Me:**
+
 😇 My name is Nikhil Singh Chauhan<br>📖 currently pursuing B.tech in CSE-AI<br>🌱 I’m currently learning Java<br>💬 Ask me about Python
 
 
