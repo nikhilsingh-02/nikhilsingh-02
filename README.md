@@ -22,6 +22,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh-02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsingh-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+##  LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nikhil_0211?ext=activity,contest,heatmap)
+
+###  LeetCode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Nikhil_0211&theme=dark&animated=true)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilsingh-02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
