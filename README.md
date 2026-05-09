@@ -2,7 +2,7 @@
 
 **💫 About Me:**
 
-😇 My name is Nikhil Singh Chauhan<br>📖 currently pursuing B.tech in CSE-AI<br>🌱 I’m currently preparinng myself for the journey ahead<br>
+😇 My name is Nikhil Singh Chauhan<br>📖 currently pursuing B.tech in CSE-AI<br>🌱 I’m currently preparing myself for the journey ahead<br>
 
 
 ## 🌐 Socials:
